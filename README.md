@@ -1,6 +1,7 @@
-Project Overview: Media Streaming Application
+This project is done with reference from shama hoque's book Full stack React Projects.
 
-Developed a full-stack media streaming application using the MERN (MongoDB, Express, React, Node.js) stack technologies. The project focused on enabling users to upload, store, and stream video content efficiently. Key features included uploading videos to MongoDB GridFS, implementing CRUD operations for media posts, and customizing React components for a seamless user experience.
+Project Overview: Media Streaming Application
+A full-stack media streaming application using the MERN (MongoDB, Express, React, Node.js) stack technologies. The project focused on enabling users to upload, store, and stream video content efficiently. Key features included uploading videos to MongoDB GridFS, implementing CRUD operations for media posts, and customizing React components for a seamless user experience.
 
 - Implemented backend controller methods for handling media documents and user interactions.
 - Customized React components to facilitate media uploading, editing, and streaming functionalities.
